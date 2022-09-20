@@ -11,16 +11,28 @@
 #define RELAY_ON LOW #define RELAY_OFF HIGH
 
 #include <ESP8266_Lib.h>
-#include <BlynkSimpleShieldEsp8266.h> #include <SoftwareSerial.h>
-#include <TimeLib.h> #include <WidgetRTC.h> #include <Servo.h>
+#include <BlynkSimpleShieldEsp8266.h> 
+#include <SoftwareSerial.h>
+#include <TimeLib.h> 
+#include <WidgetRTC.h> 
+#include <Servo.h>
 
-char auth[] = "RAHASIA_SAYA"; char ssid[] = "WIFI_SAYA"; char pass[] = "PASSWORD_SAYA"; char tz[] = "Asia/Jakarta"; String tjp1 = "";
-String tjp2 = ""; String wjpa = ""; String tjpa = ""; int rowIndex = 0;
+char auth[] = "RAHASIA_SAYA"; 
+char ssid[] = "WIFI_SAYA"; 
+char pass[] = "PASSWORD_SAYA"; 
+char tz[] = "Asia/Jakarta"; 
+String tjp1 = "";
+String tjp2 = ""; 
+String wjpa = ""; 
+String tjpa = ""; 
+int rowIndex = 0;
 int posServoFeeding = 0;
 int timeoutFeeding = 0, timeoutIrigating = 0;
 
-SoftwareSerial EspSerial(PIN_TX, PIN_RX); ESP8266 wifi(&EspSerial);
-BlynkTimer timer; WidgetRTC rtc; Servo servoFeeding;
+SoftwareSerial EspSerial(PIN_TX, PIN_RX); 
+ESP8266 wifi(&EspSerial);
+BlynkTimer timer; WidgetRTC rtc; 
+Servo servoFeeding;
 
 BLYNK_CONNECTED() {
   rtc.begin(); Blynk.syncAll();
