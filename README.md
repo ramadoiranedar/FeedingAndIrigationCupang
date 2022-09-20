@@ -26,9 +26,6 @@ Using:
   <img width="200" alt="image" src="https://user-images.githubusercontent.com/58647636/191258393-ec53567d-c230-43d0-ae27-5a1ebab6f644.png">
 </picture>
 <picture>
-  <img width="341" alt="image" src="https://user-images.githubusercontent.com/58647636/191258915-322cf698-3829-4f09-b381-62a74df5e3e8.png">
-</picture>
-<picture>
   <img width="210" alt="image" src="https://user-images.githubusercontent.com/58647636/191259067-a206ec3b-9854-4063-9396-601859392909.png">
 </picture>
 <picture>
