@@ -15,6 +15,7 @@ Using:
 - LED
 - Jumper Cable
 - Breadboard
+- Smartphone
 
 <picture>
   <img width="102" alt="image" src="https://user-images.githubusercontent.com/58647636/191258221-c1e70c9f-5e29-4299-bc99-7cf54ec4d625.png">
