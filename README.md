@@ -6,7 +6,23 @@ Using:
 - Blynk (https://github.com/blynkkk/blynk-library)
 - Blynk Legacy App (https://play.google.com/store/apps/details?id=cloud.blynk&hl=en&gl=US)
 - Blynk App Reference (https://docs.blynk.cc)
+- Arduino UNO R3
+- Ultrasonic Sensor
+- Motor Servo Actuator
+- Module WiFi ESP01
+- Module Relay Dual Channel
+- Mini Pump
+- LED
+- Jumper Cable
+- Breadboard
 
 <picture>
-  <img width="322" alt="image" src="https://user-images.githubusercontent.com/58647636/191256089-6a1b4394-3b4c-44d8-979c-28f0169abbdb.png">
+  <img width="102" alt="image" src="https://user-images.githubusercontent.com/58647636/191258221-c1e70c9f-5e29-4299-bc99-7cf54ec4d625.png">
+  <img width="194" alt="image" src="https://user-images.githubusercontent.com/58647636/191258265-6a89b16c-fe34-45c6-90f0-6828c3694676.png">
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/58647636/191258374-6aa86638-f916-4da2-b1e0-5fc9ec41f0fe.png">
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/58647636/191258393-ec53567d-c230-43d0-ae27-5a1ebab6f644.png">
+  <img width="341" alt="image" src="https://user-images.githubusercontent.com/58647636/191258915-322cf698-3829-4f09-b381-62a74df5e3e8.png">
+  <img width="210" alt="image" src="https://user-images.githubusercontent.com/58647636/191259067-a206ec3b-9854-4063-9396-601859392909.png">
+  <img width="218" alt="image" src="https://user-images.githubusercontent.com/58647636/191259284-7d9ac4a0-c8e2-423c-a74a-3bf99c445f4b.png">
+
 </picture>
