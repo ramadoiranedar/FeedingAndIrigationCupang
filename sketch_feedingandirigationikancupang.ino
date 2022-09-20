@@ -8,7 +8,8 @@
 #define PIN_RELAY1_WATERPUMP 7
 #define PIN_RELAY2_WATERPUMP 8
 #define PIN_LED_INDICATOR_CONNECTION 13
-#define RELAY_ON LOW #define RELAY_OFF HIGH
+#define RELAY_ON LOW 
+#define RELAY_OFF HIGH
 
 #include <ESP8266_Lib.h>
 #include <BlynkSimpleShieldEsp8266.h> 
