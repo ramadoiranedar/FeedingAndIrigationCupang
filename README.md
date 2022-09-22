@@ -1,7 +1,7 @@
 # FeedingAndIrigationCupang IoT
 
 <picture>
-  <img width="10%" alt="image" src="https://user-images.githubusercontent.com/58647636/191638712-3386d64f-082b-4b0a-b408-2b1de962ee2c.png">
+  <img width="50%" alt="image" src="https://user-images.githubusercontent.com/58647636/191638712-3386d64f-082b-4b0a-b408-2b1de962ee2c.png">
 </picture>
 
 Using:
