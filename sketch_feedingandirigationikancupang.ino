@@ -32,7 +32,8 @@ int timeoutFeeding = 0, timeoutIrigating = 0;
 
 SoftwareSerial EspSerial(PIN_TX, PIN_RX); 
 ESP8266 wifi(&EspSerial);
-BlynkTimer timer; WidgetRTC rtc; 
+BlynkTimer timer; 
+WidgetRTC rtc; 
 Servo servoFeeding;
 
 BLYNK_CONNECTED() {
