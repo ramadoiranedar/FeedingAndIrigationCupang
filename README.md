@@ -1,5 +1,9 @@
 # FeedingAndIrigationCupang IoT
 
+<picture>
+  ![image](https://user-images.githubusercontent.com/58647636/191638712-3386d64f-082b-4b0a-b408-2b1de962ee2c.png)
+</picture>
+
 Using:
 
 - Arduino (https://arduino.cc)
